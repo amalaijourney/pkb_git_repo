@@ -1,1 +1,3 @@
 ingesting first batch from master 
+
+Ingesting Azure Batch load 
